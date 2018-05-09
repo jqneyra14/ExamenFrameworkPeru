@@ -26,6 +26,7 @@ namespace SisMantOT
         {
             gvEquipo.AutoGenerateColumns = false;
             ListarEquipo();
+            txtBuscar.Focus();
         }
 
         public void ListarEquipo()

@@ -247,27 +247,37 @@ namespace SisMantOT
             {
                 if (lbeOrdenTrabajoDetalle.Count > 0)
                 {
-                    beOrdenTrabajo obeOrdenTrabajo = new beOrdenTrabajo();
-
-                    obeOrdenTrabajo.Descripcion_OT = txtDetalleOT.Text.Trim();
-                    obeOrdenTrabajo.Estado_OT = "Programado";
-                    string Numero_OT = string.Empty;
-                    bool registro = obrOrdenTrabajo.RegistrarOT(obeOrdenTrabajo, lbeOrdenTrabajoDetalle, ref Numero_OT, ref msgError);
-                    if (registro || string.IsNullOrWhiteSpace(msgError))
+                    if (!string.IsNullOrWhiteSpace(txtDetalleOT.Text))
                     {
-                        txtNumOT.Text = Numero_OT;
-                        btnGuardar.Enabled = false;
-                        MessageBox.Show("Se registró correctamente la orden de trabajo", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1);
-                        ListarOrdenesTrabajo();
+                        beOrdenTrabajo obeOrdenTrabajo = new beOrdenTrabajo();
+
+                        obeOrdenTrabajo.Descripcion_OT = txtDetalleOT.Text.Trim();
+                        obeOrdenTrabajo.Estado_OT = "Programado";
+                        string Numero_OT = string.Empty;
+                        bool registro = obrOrdenTrabajo.RegistrarOT(obeOrdenTrabajo, lbeOrdenTrabajoDetalle, ref Numero_OT, ref msgError);
+                        if (registro || string.IsNullOrWhiteSpace(msgError))
+                        {
+                            txtNumOT.Text = Numero_OT;
+                            btnGuardar.Enabled = false;
+                            MessageBox.Show("Se registró correctamente la orden de trabajo", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1);
+                            ListarOrdenesTrabajo();
+                        }
+                        else
+                        {
+                            MessageBox.Show("Ocurrió un error: " + msgError, "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
+                        }
                     }
                     else
                     {
-                        MessageBox.Show("Ocurrió un error: " + msgError, "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
+                        MessageBox.Show("Ingresa una descripción del trabajo", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button1);
+
+                        txtDetalleOT.Focus();
                     }
+                  
                 }
                 else
                 {
-                    MessageBox.Show("Ingrese cantidad", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button1);
+                    MessageBox.Show("Ingrese equipos al detalle del trabajo", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button1);
                 }
 
             }
