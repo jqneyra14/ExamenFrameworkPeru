@@ -58,6 +58,12 @@
     <Compile Include="frmEquipo.Designer.cs">
       <DependentUpon>frmEquipo.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmRegistroOrdenTrabajo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistroOrdenTrabajo.Designer.cs">
+      <DependentUpon>frmRegistroOrdenTrabajo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +77,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmEquipo.resx">
       <DependentUpon>frmEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistroOrdenTrabajo.resx">
+      <DependentUpon>frmRegistroOrdenTrabajo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
