@@ -125,6 +125,7 @@ namespace SisMantOT
                 else
                 {
                     MessageBox.Show("Ingrese cantidad", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button1);
+                    btnBuscarEquipo.Focus();
                 }
             }
             else
@@ -291,7 +292,7 @@ namespace SisMantOT
         {
             if (gvOT.CurrentRow != null)
             {
-                if (MessageBox.Show("¿Está seguro que desea cambiar estado a Trabajado y liberar stock de Equipos", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) != DialogResult.No)
+                if (MessageBox.Show("¿Está seguro que desea cambiar estado a Trabajado y liberar stock de Equipos?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) != DialogResult.No)
                 {
                     List<beOrdenTrabajoDetalle> ldetalleEquipos = new List<beOrdenTrabajoDetalle>();
                     beOrdenTrabajo obeOrdenTrabajo = new beOrdenTrabajo();
@@ -304,7 +305,7 @@ namespace SisMantOT
                         bool result = obrOrdenTrabajo.CambiarEstadoOT(obeOrdenTrabajo, ldetalleEquipos, ref msgError);
                         if (result || string.IsNullOrWhiteSpace(msgError))
                         {
-                            MessageBox.Show("Se cambió correctamente el estado de la Orden de Trabajo ", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1);
+                            MessageBox.Show("Se cambió correctamente el estado de la Orden de Trabajo y se liberó el stock de Equipos", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1);
                             ListarOrdenesTrabajo();
                         }
                         else

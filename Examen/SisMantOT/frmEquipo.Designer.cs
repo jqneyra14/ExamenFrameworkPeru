@@ -92,7 +92,7 @@
             this.btnBuscar.Location = new System.Drawing.Point(487, 7);
             this.btnBuscar.Name = "btnBuscar";
             this.btnBuscar.Size = new System.Drawing.Size(115, 82);
-            this.btnBuscar.TabIndex = 10;
+            this.btnBuscar.TabIndex = 2;
             this.btnBuscar.Text = "Buscar";
             this.btnBuscar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnBuscar.UseVisualStyleBackColor = true;
@@ -128,7 +128,7 @@
             this.txtSerie.MaxLength = 50;
             this.txtSerie.Name = "txtSerie";
             this.txtSerie.Size = new System.Drawing.Size(457, 20);
-            this.txtSerie.TabIndex = 38;
+            this.txtSerie.TabIndex = 10;
             // 
             // label9
             // 
@@ -146,7 +146,7 @@
             this.txtModelo.MaxLength = 50;
             this.txtModelo.Name = "txtModelo";
             this.txtModelo.Size = new System.Drawing.Size(457, 20);
-            this.txtModelo.TabIndex = 36;
+            this.txtModelo.TabIndex = 9;
             // 
             // label8
             // 
@@ -164,7 +164,7 @@
             this.cboMarca.Location = new System.Drawing.Point(155, 80);
             this.cboMarca.Name = "cboMarca";
             this.cboMarca.Size = new System.Drawing.Size(328, 21);
-            this.cboMarca.TabIndex = 34;
+            this.cboMarca.TabIndex = 8;
             // 
             // label7
             // 
@@ -180,7 +180,7 @@
             this.txtCantidadBase.Location = new System.Drawing.Point(155, 161);
             this.txtCantidadBase.Name = "txtCantidadBase";
             this.txtCantidadBase.Size = new System.Drawing.Size(132, 20);
-            this.txtCantidadBase.TabIndex = 29;
+            this.txtCantidadBase.TabIndex = 11;
             // 
             // label4
             // 
@@ -226,7 +226,7 @@
             this.txtDescripcion.MaxLength = 100;
             this.txtDescripcion.Name = "txtDescripcion";
             this.txtDescripcion.Size = new System.Drawing.Size(457, 20);
-            this.txtDescripcion.TabIndex = 23;
+            this.txtDescripcion.TabIndex = 7;
             // 
             // groupBox1
             // 
@@ -247,7 +247,7 @@
             this.btnCancelar.Location = new System.Drawing.Point(327, 12);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(120, 42);
-            this.btnCancelar.TabIndex = 15;
+            this.btnCancelar.TabIndex = 13;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnCancelar.UseVisualStyleBackColor = true;
@@ -262,7 +262,7 @@
             this.btnGuardar.Location = new System.Drawing.Point(126, 12);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(120, 42);
-            this.btnGuardar.TabIndex = 14;
+            this.btnGuardar.TabIndex = 12;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnGuardar.UseVisualStyleBackColor = true;
@@ -329,7 +329,7 @@
             this.btnEditar.Location = new System.Drawing.Point(317, 12);
             this.btnEditar.Name = "btnEditar";
             this.btnEditar.Size = new System.Drawing.Size(120, 42);
-            this.btnEditar.TabIndex = 16;
+            this.btnEditar.TabIndex = 5;
             this.btnEditar.Text = "Editar";
             this.btnEditar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnEditar.UseVisualStyleBackColor = true;
@@ -343,7 +343,7 @@
             this.btnAnular.Location = new System.Drawing.Point(466, 12);
             this.btnAnular.Name = "btnAnular";
             this.btnAnular.Size = new System.Drawing.Size(137, 42);
-            this.btnAnular.TabIndex = 15;
+            this.btnAnular.TabIndex = 6;
             this.btnAnular.Text = "Anular/Activar";
             this.btnAnular.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnAnular.UseVisualStyleBackColor = true;
@@ -357,7 +357,7 @@
             this.btnNuevo.Location = new System.Drawing.Point(169, 12);
             this.btnNuevo.Name = "btnNuevo";
             this.btnNuevo.Size = new System.Drawing.Size(120, 42);
-            this.btnNuevo.TabIndex = 14;
+            this.btnNuevo.TabIndex = 4;
             this.btnNuevo.Text = "Nuevo";
             this.btnNuevo.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnNuevo.UseVisualStyleBackColor = true;
@@ -402,7 +402,7 @@
             this.txtBuscar.MaxLength = 50;
             this.txtBuscar.Name = "txtBuscar";
             this.txtBuscar.Size = new System.Drawing.Size(311, 21);
-            this.txtBuscar.TabIndex = 5;
+            this.txtBuscar.TabIndex = 1;
             this.txtBuscar.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtBuscar_KeyPress);
             // 
             // gvEquipo
@@ -431,7 +431,7 @@
             this.gvEquipo.ReadOnly = true;
             this.gvEquipo.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.gvEquipo.Size = new System.Drawing.Size(1274, 302);
-            this.gvEquipo.TabIndex = 13;
+            this.gvEquipo.TabIndex = 3;
             // 
             // Id_Equipo
             // 
