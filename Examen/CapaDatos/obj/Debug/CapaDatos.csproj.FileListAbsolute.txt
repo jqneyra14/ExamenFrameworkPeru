@@ -13,3 +13,11 @@ C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaDatos\o
 C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaDatos\obj\Debug\CapaDatos.pdb

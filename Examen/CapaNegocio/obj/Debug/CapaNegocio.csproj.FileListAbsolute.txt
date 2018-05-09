@@ -17,3 +17,13 @@ C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio
 C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
 C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\Examen\CapaNegocio\obj\Debug\CapaNegocio.pdb
