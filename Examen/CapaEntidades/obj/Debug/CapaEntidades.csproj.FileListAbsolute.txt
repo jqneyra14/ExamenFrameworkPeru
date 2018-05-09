@@ -1,0 +1,11 @@
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaEntidades\bin\Debug\CapaEntidades.dll
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaEntidades\bin\Debug\CapaEntidades.pdb
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaEntidades\obj\Debug\CapaEntidades.dll
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaEntidades\obj\Debug\CapaEntidades.pdb
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache

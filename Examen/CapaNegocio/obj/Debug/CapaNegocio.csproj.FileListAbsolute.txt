@@ -1,0 +1,19 @@
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaNegocio\bin\Debug\CapaNegocio.dll
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaNegocio\bin\Debug\CapaNegocio.pdb
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaNegocio\bin\Debug\CapaEntidades.dll
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaNegocio\bin\Debug\CapaEntidades.pdb
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaNegocio\obj\Debug\CapaNegocio.dll
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaNegocio\obj\Debug\CapaNegocio.pdb
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaNegocio\bin\Debug\CapaDatos.dll
+c:\users\juan\documents\visual studio 2013\Projects\SisMantenimientos\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\JUAN\Documents\GitHub\ExamenFrameworkPeru\SisMantenimientos\CapaNegocio\obj\Debug\CapaNegocio.pdb
